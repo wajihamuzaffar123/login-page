@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+h3{
+    color: purple;
+}
+button{
+    background-color: purple;
+border-style: solid ;
+border-radius: 20px;
+}

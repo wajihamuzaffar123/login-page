@@ -1,0 +1,29 @@
+button{
+    border-radius: 20px;
+    color: white;
+    
+    
+
+}
+body{
+    background-color: green;
+}
+#navtive{
+    background-size: cover;
+    border-color: black;
+    border: 5px solid black;
+    padding-left: 20px;
+    border-radius: 20px;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    padding-bottom: 0.5px;
+}
+#one{
+    text-decoration: line-through;
+}
+
+
+
+
+
